@@ -1,0 +1,9 @@
+# IDE files
+.idea
+.vscode
+
+# Binary files
+build
+bin
+cmake-build-debug
+*.out
